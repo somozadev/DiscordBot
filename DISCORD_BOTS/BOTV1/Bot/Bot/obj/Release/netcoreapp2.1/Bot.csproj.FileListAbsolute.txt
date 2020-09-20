@@ -1,0 +1,11 @@
+F:\PROGRAMASQUEHAGO\BOTS\DISCORD_BOTS\BOTV1\Bot\Bot\bin\Release\netcoreapp2.1\Bot.deps.json
+F:\PROGRAMASQUEHAGO\BOTS\DISCORD_BOTS\BOTV1\Bot\Bot\bin\Release\netcoreapp2.1\Bot.runtimeconfig.json
+F:\PROGRAMASQUEHAGO\BOTS\DISCORD_BOTS\BOTV1\Bot\Bot\bin\Release\netcoreapp2.1\Bot.runtimeconfig.dev.json
+F:\PROGRAMASQUEHAGO\BOTS\DISCORD_BOTS\BOTV1\Bot\Bot\bin\Release\netcoreapp2.1\Bot.dll
+F:\PROGRAMASQUEHAGO\BOTS\DISCORD_BOTS\BOTV1\Bot\Bot\bin\Release\netcoreapp2.1\Bot.pdb
+F:\PROGRAMASQUEHAGO\BOTS\DISCORD_BOTS\BOTV1\Bot\Bot\obj\Release\netcoreapp2.1\Bot.csproj.CoreCompileInputs.cache
+F:\PROGRAMASQUEHAGO\BOTS\DISCORD_BOTS\BOTV1\Bot\Bot\obj\Release\netcoreapp2.1\Bot.AssemblyInfoInputs.cache
+F:\PROGRAMASQUEHAGO\BOTS\DISCORD_BOTS\BOTV1\Bot\Bot\obj\Release\netcoreapp2.1\Bot.AssemblyInfo.cs
+F:\PROGRAMASQUEHAGO\BOTS\DISCORD_BOTS\BOTV1\Bot\Bot\obj\Release\netcoreapp2.1\Bot.dll
+F:\PROGRAMASQUEHAGO\BOTS\DISCORD_BOTS\BOTV1\Bot\Bot\obj\Release\netcoreapp2.1\Bot.pdb
+F:\PROGRAMASQUEHAGO\BOTS\DISCORD_BOTS\BOTV1\Bot\Bot\obj\Release\netcoreapp2.1\Bot.csprojAssemblyReference.cache

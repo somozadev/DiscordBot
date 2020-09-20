@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bot", "Bot\Bot.csproj", "{ED4F4A22-E29A-450A-95C1-6883D4C322B0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WizardBot", "..\..\..\BUILD\WizardBot\WizardBot.vdproj", "{5734BC45-FFF5-4B04-B495-C553E8D61574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED4F4A22-E29A-450A-95C1-6883D4C322B0}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4F4A22-E29A-450A-95C1-6883D4C322B0}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{ED4F4A22-E29A-450A-95C1-6883D4C322B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4F4A22-E29A-450A-95C1-6883D4C322B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5734BC45-FFF5-4B04-B495-C553E8D61574}.Debug|Any CPU.ActiveCfg = Debug
+		{5734BC45-FFF5-4B04-B495-C553E8D61574}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46E022B4-DC8D-480C-9719-A5F337E4EEA2}
+	EndGlobalSection
+EndGlobal
